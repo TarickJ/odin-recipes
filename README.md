@@ -1,9 +1,9 @@
 # odin-recipes
 The Odin Project - html foundations Project: Recipes
 
-<!-- Project to demonstrate foundational understanding of using github and html. -->
+# Project to demonstrate foundational understanding of using github and html.
 
-<!-- Assignment Instructions -->
+# Assignment Instructions
 
 Iteration 1: initial structure
 
